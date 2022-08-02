@@ -12,3 +12,10 @@
     - String Manipulation
     - Type error, type checking, type conversion
     - Round(), type()
+
+## Day 3 Love Calculator, Treasure Island
+
+    - Conditionals
+    - count(), lower(), upper()
+    - Nested conditions
+    - Logical Operations
